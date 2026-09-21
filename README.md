@@ -238,6 +238,19 @@ Open-source Linux server management panel offering modern interface with compreh
 - Modern interface design with comprehensive Linux server administration capabilities
 - **Why Choose This:** 1Panel provides contemporary control panel experience with open-source flexibility, appealing to administrators seeking modern interface design combined with comprehensive server management tools without proprietary restrictions.
 
+## **[Laranode](https://github.com/crivion/laranode)**
+
+Free open-source hosting control panel built with Laravel as a lightweight cPanel and Plesk alternative for Ubuntu VPS and dedicated servers, managing websites, databases, SSL certificates, PHP versions, firewall rules, and backups from a clean, modern interface.
+
+![Laranode Screenshot](image/laranode.webp)
+
+
+- Multi-account hosting with role-based access for administrators and users, per-website PHP version assignment (7.4 up to 8.5), and one-click Let's Encrypt SSL certificates
+- LAMP stack administration covering Apache, MySQL databases, PHP-FPM, and UFW firewall rules directly from the web interface, plus a built-in file manager
+- Backup manager for full accounts, website files, and databases stored locally, on S3-compatible storage, or over SFTP, with daily, weekly, or monthly schedules and retention
+- Live CPU, memory, disk, and network statistics with one-line installer, Docker image, and a public demo available
+- **Why Choose This:** Laranode delivers the essentials of a traditional hosting panel without licensing fees or bloat, running comfortably on a 1 vCPU / 2GB RAM Ubuntu server. Its modern Laravel codebase makes it easy to audit and extend, making it a strong fit for developers and small hosting setups seeking a self-hosted, open-source alternative to cPanel and Plesk.
+
 ## **[Jenkins](https://www.jenkins.io)**
 
 Application monitoring executions of repeated jobs including software project building and cron job management with extensive automation capabilities.
