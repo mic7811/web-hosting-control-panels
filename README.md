@@ -324,6 +324,19 @@ Multi-server control panel designed for web hosting companies with clustering ca
 - Multi-server clustering with comprehensive reseller management functionality
 - **Why Choose This:** Enhance serves hosting companies requiring robust multi-server management with built-in reseller tools, suitable for providers scaling infrastructure across multiple servers with white-label capabilities.
 
+## **[AdminBolt](https://adminbolt.com)**
+
+Linux hosting control panel for hosting providers, resellers and VPS owners that installs with one command on AlmaLinux 9 or Rocky Linux 9 and manages websites, email, DNS, SSL certificates, databases, backups and security from separate administrator, reseller and client interfaces.
+
+![AdminBolt Screenshot](image/adminbolt.webp)
+
+
+- Apache, LiteSpeed Enterprise and OpenLiteSpeed web servers, a PHP version chosen per domain with PHP-FPM, and Let's Encrypt certificates issued and renewed automatically
+- Mail on Postfix, Dovecot and Rspamd with Roundcube webmail, and a DNS zone editor with BIND zone import and export, Cloudflare zone management and DNS clustering across AdminBolt servers
+- Per-account backups that clients can restore themselves, two-factor authentication and passkeys for every role, ModSecurity with the OWASP Core Rule Set, Fail2Ban and a panel-wide audit log
+- Migration from cPanel and DirectAdmin servers, WHMCS, Blesta and Upmind billing modules, a REST API, and an MCP server for AI assistants; a guided installer converts the server to CloudLinux 9 when you add a CloudLinux licence
+- **Why Choose This:** AdminBolt is licensed per server at a flat monthly price with no per-account fees ($20 for a virtual machine, $45 for a bare-metal server), so licence costs stay the same as the number of hosted accounts grows. Its migration tools for cPanel and DirectAdmin and its WHMCS, Blesta and Upmind modules suit hosting providers who want to move existing customers to a new panel and keep their billing platform.
+
 ## **[SpinupWP](https://spinupwp.com)**
 
 WordPress-focused server control panel providing optimized configurations and automated management specifically for WordPress hosting environments.
